@@ -1,0 +1,1 @@
+Teste para adicionar um novo arquivo pelo git bash
